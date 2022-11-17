@@ -1,3 +1,3 @@
 # Database-Edicola
 
-__ primo database dell' edicola __
+__primo database dell' edicola__
